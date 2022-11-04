@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="599dd063-dc5e-49d6-b6f4-da59c7adbe4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/front/aochuangfront/src/views/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aochuang-front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/aochuang-front/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aochuang-front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/aochuang-front/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aochuang-front/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/aochuang-front/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aochuang-front/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aochuang-front/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aochuang-front/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aochuang-front/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/aochuang-front/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aochuang-front/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/aochuang-front/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aochuang-front/src/views/AboutView.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aochuang-front/src/views/HomeView.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aochuang-front/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/aochuang-front/vue.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/aochuangfront/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/aochuangfront/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/aochuangfront/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/aochuangfront/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/aochuangfront/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/aochuangfront/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front/aochuangfront/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/aochuangfront/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/aochuangfront/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/aochuangfront/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/aochuangfront/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/aochuangfront/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/aochuangfront/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/aochuangfront/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/aochuangfront/src/views/AboutView.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/aochuangfront/src/views/HomeView.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/aochuangfront/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/aochuangfront/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aochuang-front" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aochuang-server/target/classes/META-INF/aochuang-server.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,13 +21,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aochuang-server/src/main/java/com/xxxx/server/aochuangApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aochuang.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -150,19 +136,19 @@
       <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="aochuang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aochuang" type="462c0819:PsiDirectoryNode" />
+              <item name="aochuang-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aochuang-back" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,16 +248,17 @@
       <workItem from="1666763410676" duration="608000" />
       <workItem from="1666839263071" duration="40430000" />
       <workItem from="1667093599727" duration="21132000" />
+      <workItem from="1667552429241" duration="780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97484000" />
+    <option name="totallyTimeSpent" value="98264000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27106816" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27482554" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -281,7 +268,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49973163" weight="0.43333334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919486" weight="0.43333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -289,7 +276,7 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002684" side_tool="true" weight="0.26222223" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080514" side_tool="true" weight="0.43333334" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
@@ -323,13 +310,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.3.1.tmp/mybatis-plus-extension-3.3.1.tmp.jar!/com/baomidou/mybatisplus/extension/plugins/pagination/Page.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5492">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aochuang-server/src/main/java/com/xxxx/server/service/IDepartmentService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -743,9 +723,12 @@
     <entry file="file://$PROJECT_DIR$/aochuang-server/src/main/java/com/xxxx/server/aochuangApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aochuang.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
