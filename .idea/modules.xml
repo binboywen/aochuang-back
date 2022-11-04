@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aochuang.iml" filepath="$PROJECT_DIR$/aochuang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aochuang-generator/aochuang-generator.iml" filepath="$PROJECT_DIR$/aochuang-generator/aochuang-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aochuang-server/aochuang-server.iml" filepath="$PROJECT_DIR$/aochuang-server/aochuang-server.iml" />
+    </modules>
+  </component>
+</project>
